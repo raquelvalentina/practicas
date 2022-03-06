@@ -30,9 +30,6 @@ for x in range (0, 100):
 # operadores de comparacion ==, >=, <= !=, <, > (igual a, mayor e igual, menor e igual, igual e diferente, mayor q, menor q,)
 # == (de comparacion) = de asignacion a vlaor
 
-import numbers
-
-
 x = 20 
 y = 20
 z = 40
